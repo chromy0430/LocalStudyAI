@@ -1,0 +1,29 @@
+파일 17500개 / 기존 재사용 18개 / 신규·수정 17482개
+건너뛰기: Book_(양면)유니티_게임_이펙트_마스터_가이드.pdf
+건너뛰기: Book_6000.2f2 HDRP Book of the Dead ZERO-Error Fix{KOR].pdf
+건너뛰기: Book_agentspace_ebook_and_promo_fa_ko.pdf
+건너뛰기: Book_category-theory-for-programmers-print.pdf
+건너뛰기: Book_category-theory-for-programmers-scala-print.pdf
+건너뛰기: Book_Unity6_ScriptableObject_book_v1.2b.pdf
+건너뛰기: Book_Unity_Playbook_1_FNL-en_us-ko_kr.pdf
+건너뛰기: Book_레트로의 유니티 성능 최적화.pdf
+건너뛰기: Book_산업안전기사필기.pdf
+건너뛰기: Book_유니티 모바일게임 UI&애니메이션 쉽게 제작하기.pdf
+건너뛰기: Book_유니티_게임_이펙트_마스터_가이드.pdf
+건너뛰기: Book_유니티로_배우는_게임_디자인_패턴.pdf
+건너뛰기: Book_이기적_정보처리기사_필기.pdf
+건너뛰기: UnityGraphicsProgramming-vol1_Korean.pdf
+건너뛰기: UnityGraphicsProgramming-vol2_Korean.pdf
+건너뛰기: UnityGraphicsProgramming-vol3_Korean.pdf
+건너뛰기: 전자책_게임비주얼이펙트테크니컬입문with유니티개정판.pdf
+건너뛰기: Becoming a Unity VFX Artist - 03 - Meshes.mp4
+EmbeddingGemma 2 740M: cuda
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/1376 [00:00<?, ?it/s]Loading weights:  10%|#         | 144/1376 [00:00<00:00, 1354.16it/s]Loading weights:  22%|##1       | 302/1376 [00:00<00:00, 1393.45it/s]Loading weights:  34%|###4      | 468/1376 [00:00<00:00, 1436.95it/s]Loading weights:  44%|####4     | 612/1376 [00:00<00:00, 1263.64it/s]Loading weights:  54%|#####3    | 741/1376 [00:00<00:00, 759.69it/s] Loading weights:  69%|######9   | 955/1376 [00:00<00:00, 1038.45it/s]Loading weights:  82%|########2 | 1130/1376 [00:00<00:00, 1190.59it/s]Loading weights:  93%|#########2| 1274/1376 [00:01<00:00, 1163.01it/s]Loading weights: 100%|##########| 1376/1376 [00:01<00:00, 1116.53it/s]
+VIDEO: Becoming a Unity VFX Artist - 01 - The Particle System.mp4
+  Whisper 전체 오디오 자막 생성 중
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB4381652D  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB449BCD87  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB4604CAEC  Unknown               Unknown  Unknown

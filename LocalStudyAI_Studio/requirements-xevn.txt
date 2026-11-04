@@ -1,0 +1,5 @@
+# Optional evidence review. Existing embedding/checkpoint files are reused.
+transformers>=5.2.0
+huggingface_hub>=0.34
+safetensors>=0.6
+# Install the appropriate torch build separately; tested with torch 2.11.0+cu128.
